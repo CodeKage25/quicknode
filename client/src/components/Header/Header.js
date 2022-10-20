@@ -9,7 +9,7 @@ const Header = () => {
             <Container>
                 <div className='nav__wrapper'>
                     <div className='logo'>
-                        <img src={logo} alt="logo" />
+                        <img src={logo} alt="logo" style={{width: '38.8px'}} />
                         <h5>Food Hub</h5>
                     </div>
                 </div>
